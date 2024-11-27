@@ -1,16 +1,3 @@
-/******************************************************************************
-Name: Brooke Benator
-Date: 02/02/2024
-Assignment: Homework 2
-Due Date: 02/05/2024
-Class Section: 6
-About this project: This tasks goals are to use if/else/switch statements as well as other basic I/O 
-and outputting format
-Assumptions: The user will put in correct numbers, as well as a correct Y/y or N/n for extra credit
-
-All work below was performed by Brooke Benator
-
-*******************************************************************************/
 #include <iostream>
 #include <iomanip>
 
